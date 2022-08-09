@@ -1,4 +1,4 @@
 gym
-gym[toy_text]
+pygame
 numpy
 matplotlib
