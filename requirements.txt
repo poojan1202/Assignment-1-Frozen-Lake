@@ -1,3 +1,4 @@
 gym
+gym[toy_text]
 numpy
 matplotlib
